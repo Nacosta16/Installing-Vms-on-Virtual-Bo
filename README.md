@@ -17,5 +17,5 @@ Virtual Box is an effective and free methods of installing and running virtual m
    - Use recommended PC settings including windows 10 and 64 bit
    - Chose ISO file when selecting media
    - Select where you would like to place the file (I personally have it on my desktop in a folder with all of my other virtual machine material) and proceed with the download
-   - 
-   - 
+     
+ - <b> Step 4 Setting up windows10 configurations on your virtual os </b> 
