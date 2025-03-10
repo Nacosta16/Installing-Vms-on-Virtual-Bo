@@ -44,9 +44,27 @@ Virtual Box is an effective and free methods of installing and running virtual m
      <p>
 <img src="https://sigmawire.net/i/03/dobiRv.png" height="30%" width="30%" alt="VirtualBox set up wizard"/>
 </p>
+
  -  Moving on to the hardware page, it is recommended if you do not have a lot of ram to spare to leave it at 4Gb of ram. Otherwise you may extend it to at least 8
- -  As for the cores, you may leave it at one but you may increase it if you would like quicker installation although one will surfice.  
+ -  As for the cores, you may leave it at one but you may increase it if you would like quicker installation although one will surfice. 
+ 
  <p>
 <img src="https://sigmawire.net/i/03/cNQdVS.png" height="30%" width="30%" alt="VirtualBox set up wizard"/>
 </p>
 
+ - Finally for the harddisk page ensure the virtual disk is selected with 50Gb which is more than enough for the capabilities of this virtual OS
+
+ <p>
+<img src="https://sigmawire.net/i/03/zBJmfZ.png" height="30%" width="30%" alt="VirtualBox set up wizard"/>
+</p>
+
+- The virtual windows OS should appear in the manager now as shown below. You are now ready to boot up the virtual OS and configure the settings as another other OS being started for the first time. 
+
+<p>
+<img src="https://sigmawire.net/i/03/G19KR6.png" height="30%" width="30%" alt="VirtualBox set up wizard"/>
+</p>
+
+ - Note: If the virtual OS has an issue finding the product key when booting up, more often than not the boot order needs to be adjusted 
+ - Proceed to settings of the Windows10 virtual OS in the manager, scroll to system, and then unselect floppy disk
+ - Then proceed to storage and remove any "unattended files" from the floppy disk
+ - 
