@@ -67,4 +67,4 @@ Virtual Box is an effective and free methods of installing and running virtual m
  - Note: If the virtual OS has an issue finding the product key when booting up, more often than not the boot order needs to be adjusted 
  - Proceed to settings of the Windows10 virtual OS in the manager, scroll to system, and then unselect floppy disk
  - Then proceed to storage and remove any "unattended files" from the floppy disk
- - 
+ 
